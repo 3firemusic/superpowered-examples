@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/superpowered-examples/static/css/main.fd116c66.chunk.css",
+    "main.js": "/superpowered-examples/static/js/main.47976ea4.chunk.js",
+    "main.js.map": "/superpowered-examples/static/js/main.47976ea4.chunk.js.map",
+    "runtime-main.js": "/superpowered-examples/static/js/runtime-main.815dc274.js",
+    "runtime-main.js.map": "/superpowered-examples/static/js/runtime-main.815dc274.js.map",
+    "static/js/2.3a59da12.chunk.js": "/superpowered-examples/static/js/2.3a59da12.chunk.js",
+    "static/js/2.3a59da12.chunk.js.map": "/superpowered-examples/static/js/2.3a59da12.chunk.js.map",
+    "static/js/3.fa188c8b.chunk.js": "/superpowered-examples/static/js/3.fa188c8b.chunk.js",
+    "static/js/3.fa188c8b.chunk.js.map": "/superpowered-examples/static/js/3.fa188c8b.chunk.js.map",
+    "index.html": "/superpowered-examples/index.html",
+    "static/css/main.fd116c66.chunk.css.map": "/superpowered-examples/static/css/main.fd116c66.chunk.css.map",
+    "static/js/2.3a59da12.chunk.js.LICENSE.txt": "/superpowered-examples/static/js/2.3a59da12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.815dc274.js",
+    "static/js/2.3a59da12.chunk.js",
+    "static/css/main.fd116c66.chunk.css",
+    "static/js/main.47976ea4.chunk.js"
+  ]
+}
