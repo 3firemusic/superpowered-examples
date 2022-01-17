@@ -1,0 +1,17 @@
+html {
+  background: #212121;
+  color: white;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 10px 40px 10px;
+}
+
+.App {
+  text-align: center;
+  margin-top: 10px;
+}
